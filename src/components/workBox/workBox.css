@@ -1,0 +1,23 @@
+.work-box {
+  min-height: 40vh;
+  width: 22vw;
+  border: 1px red solid;
+}
+
+.button {
+  float: right;
+  margin-right: 1rem;
+  width: 70px;
+  height: 25px;
+  background-color: green;
+  color: white;
+  border-radius: 4px;
+  border: 0;
+}
+
+.box-title {
+  margin-left: 1rem;
+  float: left;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
