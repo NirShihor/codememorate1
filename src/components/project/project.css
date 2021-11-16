@@ -22,3 +22,21 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+
+/* .screen {
+  border: 2px green solid;
+  min-height: 40vh;
+  margin-top: 3rem;
+}
+
+.screen1 {
+  background-color: #3a3a3a;
+}
+
+.screen2 {
+  background-color: #8acef4;
+}
+
+.screen3 {
+  background-color: #dbdada;
+} */

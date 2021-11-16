@@ -7,8 +7,9 @@ const WorkBox = (props) => {
     <div>
       <div className='work-box'>
         <div className='box-title'>{props.title}</div>
-        <button class='button'>Hide</button>
-        <MiniScreen />
+        <button className='button'>Hide</button>
+        <h3 className='box-title'>{props.boxTitle}</h3>
+        <MiniScreen style={{ backgroundColor: 'red' }} />
       </div>
     </div>
   );
